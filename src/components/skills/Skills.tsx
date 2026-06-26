@@ -6,6 +6,7 @@ import {
   SiHtml5, 
   SiCss, 
   SiNodedotjs, 
+  SiExpress,
   SiPostgresql, 
   SiGit, 
   SiGithub 
@@ -31,6 +32,7 @@ const skillsContent = {
         { name: "Node.js", icon: <SiNodedotjs className="text-[#339933]" /> },
         { name: "REST APIs", icon: <HiOutlineCube className="text-[#00BCD4]" /> },
         { name: "PostgreSQL", icon: <SiPostgresql className="text-[#4169E1]" /> },
+        {name: "ExpressJS", icon: <SiExpress className="text-gray-800 dark:text-white"></SiExpress>}
       ],
     },
     {
