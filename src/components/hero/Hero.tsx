@@ -20,7 +20,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans p-4 md:p-8 dark:bg-black min-h-screen"
+      className="flex flex-col flex-1 items-center justify-center bg-linear-360 from-red-950 to-black min-h-screen"
     >
       <div className="flex flex-col md:flex-row items-center justify-center md:justify-between max-w-6xl w-full gap-8 md:gap-16">
 
