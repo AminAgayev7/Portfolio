@@ -30,7 +30,7 @@ const projectsContent = {
     },
     {
       title: "Language Learning Chat",
-      description: "A Gemini AI integrated chat application that offers a personalized learning plan according to the language you want to lean",
+      description: "A Gemini AI integrated chat application that offers a personalized learning plan according to the language you want to learn.",
       tags: ["Next.js", "TypeScript", "REST API", "Gemini AI"],
 
       githubUrl: "https://github.com/AminAgayev7/ai-supported-duolingo-chat-app.git",
@@ -62,7 +62,7 @@ const projectsContent = {
     },
     {
       title: "My Sqlite",
-      description: "Command Line Interface supported app that allows writing sql queries.",
+      description: "A Command Line Interface supported app that allows writing sql queries.",
       tags: ["Ruby"],
 
       githubUrl: "https://github.com/AminAgayev7/MySqlite.git",

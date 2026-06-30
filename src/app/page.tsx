@@ -3,7 +3,7 @@ import About from "@/components/about/about";
 import Skills from "@/components/skills/Skills";
 import Projects from "@/components/projects/Projects";
 import Education from "@/components/education/Education";
-
+import Footer from "@/components/layout/Footer";
 import Services from "@/components/services/Services";
 import Contact from "@/components/contact/Contact";
 
@@ -17,6 +17,7 @@ export default function Home() {
       <Education />
       <Services />
       <Contact />
+      <Footer></Footer>
     </main>
   );
 }

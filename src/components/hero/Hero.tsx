@@ -5,7 +5,7 @@ import Link from "next/link";
 const heroContent = {
   name: "Amen",
   role: "Developer",
-  bio: "Passionate Front-End Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into clean, efficient, and visually appealing digital experiences using technologies like React, Next.js, TypeScript, and Tailwind CSS. Always eager to learn and improve, I strive to create fast, accessible, and high-quality solutions that deliver great user experiences.",
+  bio: "A Passionate Front-End Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into clean, efficient, and visually appealing digital experiences using technologies like React, Next.js, TypeScript, and Tailwind CSS. Always eager to learn and improve, I strive to create fast, accessible, and high-quality solutions that deliver great user experiences.",
   image: "/images/cropped2 (2).png",
   hireMeEmail: "mailto:aminagayev516@gmail.com",
   socials: {
