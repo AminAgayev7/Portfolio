@@ -38,7 +38,7 @@ const projectsContent = {
     },
     {
       title: "Spotify UI",
-      description: "A complex clone of the user interface of Spotify",
+      description: "A complex clone of Spotify's user interface.",
       tags: ["Next.js", "TypeScript", "Tailwind CSS"],
 
       githubUrl: "https://github.com/AminAgayev7/Spotify-UI.git",

@@ -14,7 +14,7 @@ const educationContent = {
       degree: "Front-end Web Development",
       institution: "Peerstack Academy",
       location: "Baku, Azerbaijan",
-      period: "2021 – 2022",
+      period: "2025-2026",
       description: "Completed intensive training in modern web technologies including React, Node.js, and databases.",
       gpa: null,
     },
